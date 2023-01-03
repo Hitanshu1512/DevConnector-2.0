@@ -1,2 +1,2 @@
-# devconnector.github.io
-Social Media platform for developers
+# devconnector reloaded
+A Social Media platform for developers
